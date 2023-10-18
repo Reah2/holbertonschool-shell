@@ -1,1 +1,1 @@
-Shell basics readme
+# A shell script that display content list of current directory
