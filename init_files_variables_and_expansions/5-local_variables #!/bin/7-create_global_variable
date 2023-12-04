@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-#!/bin/bash
-
-=======
 #!/bin/bash                                                                                                                                            
->>>>>>> 232da4674eb5a81c3bbb4e021dd3e5cb57253d01
-echo "hello $USER"
+export BEST=School
